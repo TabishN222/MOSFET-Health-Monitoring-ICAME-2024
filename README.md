@@ -17,4 +17,4 @@ Power MOSFET, Health Monitoring, Prognostics, Remaining Useful Life, RUL Predict
 
 ## Full Paper
 Download the full paper here:
-[Nawaz_2024_MOSFET_Health_Monitoring.pdf](./Nawaz_2024_MOSFET_Health_Monitoring.pdf)
+[Nawaz_2024_MOSFET_Health_Monitoring.pdf](./Intelligent System for Real-time Health Monitoring of Power MOSFETs.pdf)
