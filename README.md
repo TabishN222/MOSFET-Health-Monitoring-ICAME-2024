@@ -16,4 +16,4 @@ As Power MOSFETs play a significant role in the industrial manufacturing process
 Power MOSFET, Health Monitoring, Prognostics, Remaining Useful Life, RUL Prediction, Machine Learning, LSTM, Predictive Maintenance, Reliability Engineering
 
 ## Full Paper
-Download the full paper [Intelligent System for Real-time Health Monitoring of Power MOSFETs.pdf](./Intelligent System for Real-time Health Monitoring of Power MOSFETs.pdf)
+Download the full paper [Nawaz_2024_MOSFET_Health_Monitoring.pdf](./Nawaz_2024_MOSFET_Health_Monitoring.pdf)
