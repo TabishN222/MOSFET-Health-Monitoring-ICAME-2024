@@ -17,3 +17,7 @@ Power MOSFET, Health Monitoring, Prognostics, Remaining Useful Life, RUL Predict
 
 ## Full Paper
 Download the full paper [Nawaz_2024_MOSFET_Health_Monitoring.pdf](./Nawaz_2024_MOSFET_Health_Monitoring.pdf)
+
+## Citation
+## Citation
+Nawaz, T., & Asif, M. (2024). Intelligent System for Real-time Health Monitoring of Power MOSFETs. ICAME-24. Zenodo. https://doi.org/10.5281/zenodo.18142322
